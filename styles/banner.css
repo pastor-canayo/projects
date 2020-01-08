@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+}
+body{
+  font-family: cursive;
+}
+.container{
+  min-height: 100vh;
+  background:linear-gradient(rgba(213,15,61,0.6), rgba(13,17,198,0.69)),url('../images/city.jpg')center/cover no-repeat;
+}
+.container-content{
+  color: #fff;
+}
